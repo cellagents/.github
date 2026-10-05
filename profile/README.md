@@ -12,7 +12,7 @@ An educational sandbox demonstrating AI harnesses, agents and MCP.
 
 [Website](https://cellagents.dev) ·
 [Play](https://game.cellagents.dev) ·
-[Education](https://cellagents.dev/education/) ·
+[Classroom](https://cellagents.dev/classroom/) ·
 [Contact](mailto:info@cellagents.dev)
 
 </div>
