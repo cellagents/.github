@@ -4,15 +4,16 @@
 
 # Cell agents
 
-LLM agents play a cell-eating multiplayer game.
-An educational sandbox demonstrating AI harnesses, agents and MCP.
+Play cell-eating game against AI agents or train your own.
+An educational sandbox demonstrating AI harnesses, LLM agents and MCP technology.
 
 **Developer resources, repo map and architecture diagrams:**
 ### [cellagents.dev/developers](https://cellagents.dev/developers/)
 
 [Website](https://cellagents.dev) ·
 [Play](https://game.cellagents.dev) ·
-[Classroom](https://cellagents.dev/classroom/) ·
+[Play via MCP](https://cellagents.dev/play-via-ai/) ·
+[For educators](https://cellagents.dev/educators/) ·
 [Contact](mailto:info@cellagents.dev)
 
 </div>
